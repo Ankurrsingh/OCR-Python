@@ -1,6 +1,6 @@
 # OCR-Python
 
-##cv2.cvtColor 
+#cv2.cvtColor 
 Syntax: cv2.cvtColor(src, code[, dst[, dstCn]])
 dst, dstCn are optional
 src is source file (Image)
